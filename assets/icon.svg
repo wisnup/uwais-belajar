@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Uwais Belajar">
+  <rect width="512" height="512" rx="112" fill="#2c7a6e"/>
+  <line x1="152" y1="386" x2="360" y2="386" stroke="#fffdf7" stroke-width="4" stroke-linecap="round" stroke-dasharray="3 14" opacity=".32"/>
+  <g fill="#fffdf7">
+    <circle cx="176.6" cy="332" r="17"/>
+    <circle cx="189.1" cy="300" r="17"/>
+    <circle cx="201.7" cy="268" r="17"/>
+    <circle cx="214.3" cy="236" r="17"/>
+    <circle cx="226.9" cy="204" r="17"/>
+    <circle cx="239.4" cy="172" r="17"/>
+    <circle cx="252" cy="140" r="17"/>
+    <circle cx="264.6" cy="172" r="17"/>
+    <circle cx="277.1" cy="204" r="17"/>
+    <circle cx="289.7" cy="236" r="17"/>
+    <circle cx="302.3" cy="268" r="17"/>
+    <circle cx="314.9" cy="300" r="17"/>
+    <circle cx="327.4" cy="332" r="17"/>
+    <circle cx="340" cy="364" r="17"/>
+    <circle cx="204" cy="276" r="17"/>
+    <circle cx="236" cy="276" r="17"/>
+    <circle cx="268" cy="276" r="17"/>
+    <circle cx="300" cy="276" r="17"/>
+  </g>
+  <circle cx="164" cy="364" r="30" fill="#f3d9a4" opacity=".28"/>
+  <circle cx="164" cy="364" r="23" fill="#fffdf7"/>
+  <circle cx="164" cy="364" r="15" fill="#e0ad4f"/>
+</svg>
