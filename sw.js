@@ -1,7 +1,7 @@
 /* Uwais Belajar — cache sederhana untuk pemakaian offline. */
 'use strict';
 
-var CACHE = 'uwais-v13';
+var CACHE = 'uwais-v14';
 var CORE = [
   '/',
   '/menulis/',
@@ -9,19 +9,19 @@ var CORE = [
   '/membaca/',
   '/404.html',
   '/manifest.webmanifest',
-  '/assets/hub.css?v=13',
-  '/assets/menulis.css?v=13',
-  '/assets/berhitung.css?v=13',
-  '/assets/membaca.css?v=13',
-  '/assets/i18n.css?v=13',
-  '/assets/art.js?v=13',
-  '/assets/i18n.js?v=13',
-  '/assets/focus.js?v=13',
-  '/assets/glyphs.js?v=13',
-  '/assets/menulis.js?v=13',
-  '/assets/berhitung.js?v=13',
-  '/assets/membaca.js?v=13',
-  '/assets/register-sw.js?v=13',
+  '/assets/hub.css?v=14',
+  '/assets/menulis.css?v=14',
+  '/assets/berhitung.css?v=14',
+  '/assets/membaca.css?v=14',
+  '/assets/i18n.css?v=14',
+  '/assets/art.js?v=14',
+  '/assets/i18n.js?v=14',
+  '/assets/focus.js?v=14',
+  '/assets/glyphs.js?v=14',
+  '/assets/menulis.js?v=14',
+  '/assets/berhitung.js?v=14',
+  '/assets/membaca.js?v=14',
+  '/assets/register-sw.js?v=14',
   '/assets/fonts/nunito-latin.woff2',
   '/assets/icon.svg',
   '/assets/icon-192.png',
